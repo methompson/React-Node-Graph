@@ -1,0 +1,8 @@
+.nodeElement {
+  padding: 2em;
+  background-color: orange;
+  border: 2px solid navy;
+  border-radius: 2em;
+  display: inline-block;
+  position: absolute;
+}
